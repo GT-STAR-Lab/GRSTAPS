@@ -1,31 +1,31 @@
 [submodule "lib/fmt"]
 	path = lib/fmt
-    url = https://github.com/amessing/fmt.git
+    url = https://github.com/fmtlib/fmt
     branch = master
 [submodule "lib/spdlog"]
 	path = lib/spdlog
-    url = https://github.com/amessing/spdlog.git
+    url = https://github.com/gabime/spdlog
     branch = v1.x
 [submodule "lib/googletest"]
 	path = lib/googletest
-    url = https://github.com/amessing/googletest.git
+    url = https://github.com/google/googletest
     branch = master
 [submodule "lib/lemon"]
 	path = lib/lemon
-	url = https://github.com/amessing/lemon-copy.git
+	url = https://github.com/tpet/lemon
 [submodule "lib/args"]
 	path = lib/args
-	url = https://github.com/amessing/args.git
+	url = https://github.com/Taywee/args
 [submodule "lib/box2d"]
 	path = lib/box2d
-	url = https://github.com/amessing/box2d.git
+	url = https://github.com/erincatto/box2d
     branch = master
 [submodule "lib/json"]
 	path = lib/json
-	url = https://github.com/amessing/json.git
+	url = https://github.com/nlohmann/json
 [submodule "lib/PlayRho"]
 	path = lib/PlayRho
-	url = git@github.com:amessing/PlayRho.git
+	url = https://github.com/louis-langholtz/PlayRho
 [submodule "lib/earcut.hpp"]
 	path = lib/earcut.hpp
-	url = git@github.com:amessing/earcut.hpp.git
+	url = https://github.com/mapbox/earcut.hpp
